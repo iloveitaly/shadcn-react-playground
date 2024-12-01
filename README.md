@@ -1,11 +1,10 @@
-# React + TypeScript + Vite
+# Shadcn Playground with React + TypeScript + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/iloveitaly/shadcn-react-playground)
 
-Currently, two official plugins are available:
+Great for using Bolt to iterate on UI designs.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+All shadcn components are bundled into the repo.
 
 ## Expanding the ESLint configuration
 
