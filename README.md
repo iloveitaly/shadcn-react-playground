@@ -6,6 +6,11 @@ Great for using Bolt to iterate on UI designs.
 
 All shadcn components are bundled into the repo.
 
+## Bolt.new Tips
+
+* https://x.com/stackblitz/status/1860013597281370565
+* Lock all shadcn components in ui
+
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:

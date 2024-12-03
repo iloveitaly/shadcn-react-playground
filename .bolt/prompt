@@ -1,0 +1,5 @@
+When creating mock data, always specify it in a separate file
+
+Load mock data using a react router `clientLoader`. Use the Skeleton component to present a loading state.
+
+Make sure to keep a log of what, why and how you did what you did in fyi(dot)md. Keep it updated.
