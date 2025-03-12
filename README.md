@@ -10,7 +10,7 @@ All shadcn components are bundled into the repo. This is a plain old react app w
 
 * https://x.com/stackblitz/status/1860013597281370565
 * Lock all shadcn components in Bolt UI
-* Customize [.bolt/prompt] to your liking
+* Customize [[.bolt/prompt]] to your liking
 * Bolt can't sync with Git. The best flow is:
   1. Import this repo into stackblitz
   2. Open in bolt
