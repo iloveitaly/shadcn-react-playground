@@ -6,6 +6,10 @@ Great for using [Bolt.new](https://bolt.new) to iterate on UI designs.
 
 All shadcn components are bundled into the repo. This is a plain old react app with no backend.
 
+## Tailwind
+
+[You cannot use v4 with StackBlitz right now.](https://github.com/tailwindlabs/tailwindcss/issues/13133)
+
 ## Bolt.new Tips
 
 * https://x.com/stackblitz/status/1860013597281370565
