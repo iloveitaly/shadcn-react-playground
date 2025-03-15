@@ -9,3 +9,4 @@
 9. Prefer functional components, hooks over classes.
 10. Break up large components into smaller components, but keep them in the same file unless they can be generalized.
 11. Put any "magic" strings like API keys, hosts, etc into a "constants.ts" file.
+12. Only use a separate interface for component props if there are more than 4 props.
