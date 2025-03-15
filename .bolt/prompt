@@ -8,3 +8,4 @@
 8. Use React 19, TypeScript, Tailwind CSS, and ShadCN components.
 9. Prefer functional components, hooks over classes.
 10. Break up large components into smaller components, but keep them in the same file unless they can be generalized.
+11. Put any "magic" strings like API keys, hosts, etc into a "constants.ts" file.
